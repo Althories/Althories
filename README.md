@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... VARIOUS PROGRAMMING LANGUAGES AND SUBJECTS
 - 💞️ I’m looking to collaborate on ... NOTHING AT THE MOMENT! Open to suggestions, of course!!
 - 📫 How to reach me ... EMAIL :] Althories.bar@gmail.com
-- 🗣️ Language Experience ... C, C#, CSS, GDScript, HTML, Java, Prolog, Python, SML, SQL, QuakeC, x86 Assembly
+- 🗣️ Language Experience ... C, C#, CSS, GDScript, HTML, Java, Kotlin, Prolog, Python, SML, SQL, QuakeC, x86 Assembly
 - repo tags: d = dead (no plans to continue), f = finished and satisfied with result for now. No tag for actively used
 <!---
 Soampbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
